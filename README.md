@@ -22,6 +22,12 @@ This project was purely done in JavaScript, without any frameworks. During imple
 
 ⚙️ Modular MVC Architecture
 
+---
+
+<img width="1508" alt="image" src="https://github.com/user-attachments/assets/a3fb3558-3010-480d-a5e7-79e5fcd61a21" />
+
+---
+
 ## 🛠️ Tech Stack
 
 JavaScript (ES6+)
